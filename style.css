@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 500px;
+    height: 700px;
+    margin-left: 400px;
+}
+h1{
+text-align: center;
+}
+ul{
+    height: 500px;
+  list-style-type:none;
+}
+li{
+ text-align: center;
+ margin: 20px;
+ padding: 50px;
+ background-color: bisque;
+  
+}
+li a {
+    text-decoration: none;
+}
+li a:hover{
+    color: brown;
+}
